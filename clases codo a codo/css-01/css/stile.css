@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+
+}
+
+
+/*p{
+    color: red;
+    background-color: aqua;
+}
+
+.primer-parrafo{
+    color: brown;
+}
+
+.parrafo{
+    background-color: chartreuse;
+}
+
+#parrafo-destacado{
+    color: coral;
+}
+h1,
+h2 {
+    margin-bottom: .5em;
+}*/
+
+.span-destacado
+ {
+    text-decoration: underline;
+    color: red;
+}
+
+div {
+    background-color: lightcoral;
+}
